@@ -1,1 +1,1 @@
-# sql-practice
+# sql-practice for data analysis
